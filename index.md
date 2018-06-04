@@ -1,45 +1,34 @@
 # Ahrim Han 
 
-Research Professor [CV](./arhan_cv.pdf) [Last updated: 1/11/2018]
-
-[Dependable Software Lab](http://dependable.korea.ac.kr/).
-
-[College of Information and Communications](http://cic.korea.ac.kr/kor/main/main.php), 
-
-[Korea University](http://www.korea.ac.kr/do/Index.do).
-
-614B Science Library Building, Anam-dong, Seongbuk-gu, Seoul, 136-713, South Korea 
-
-Tel. (02) 3290-3585, Fax. (02) 3290-3584, E-mail: ahrimhan at gmail.com | arhan at se.kaist.ac.kr
+Research Professor [CV](./arhan_cv.pdf) [Last updated: 1/11/2018]  
+[Dependable Software Lab](http://dependable.korea.ac.kr/).  
+[College of Information and Communications](http://cic.korea.ac.kr/kor/main/main.php),   
+[Korea University](http://www.korea.ac.kr/do/Index.do).  
+614B Science Library Building, Anam-dong, Seongbuk-gu, Seoul, 136-713, South Korea   
+Tel. (02) 3290-3585, Fax. (02) 3290-3584, E-mail: ahrimhan at gmail.com | arhan at se.kaist.ac.kr  
 
 # Research Interests
 
 * Software design quality assessment and improvement
-
 * Automation of the software refactoring process
 
 # Education
 
 ## Ph.D., Computer Science, 2007.3 - 2013.8
 
-Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea
-
-Thesis: Identification and Selection of Refactorings for Improving Maintainability of Object-Oriented Software [Dissertation](http://koasas.kaist.ac.kr/handle/10203/197800) [PDF](./PhDdissertation.pdf) [Slide](./PhDdisseration_presentation.pdf)
-
+Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea  
+Thesis: Identification and Selection of Refactorings for Improving Maintainability of Object-Oriented Software [Dissertation](http://koasas.kaist.ac.kr/handle/10203/197800) [PDF](./PhDdissertation.pdf) [Slide](./PhDdisseration_presentation.pdf)  
 Advisor: Prof. Doo-Hwan Bae
 
 ## M.S., Computer Science, 2005.3 - 2007.2
 
-Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea
-
-Thesis: Behavioral Dependency Measurement in UML 2.0 Sequence Diagrams for Change-proneness Prediction
-
-Advisor: Prof. Doo-Hwan Bae
+Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea  
+Thesis: Behavioral Dependency Measurement in UML 2.0 Sequence Diagrams for Change-proneness Prediction  
+Advisor: Prof. Doo-Hwan Bae  
 
 ## B.S., Computer Science, 2000.3 - 2004.2 
 
 Sogang University, Seoul, South Korea **(Magna Cum Laude)**
-
 
 # Publication
 
