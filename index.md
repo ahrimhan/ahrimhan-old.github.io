@@ -1,12 +1,16 @@
-# Affiliation
+# Ahrim Han 
 
-Research Professor [CV] [Last updated: 1/11/2018]
-Dependable Software Lab.
-College of Information and Communications
-Korea University
+Research Professor [CV](./arhan_cv.pdf) [Last updated: 1/11/2018]
+
+[Dependable Software Lab](http://dependable.korea.ac.kr/).
+
+[College of Information and Communications](http://cic.korea.ac.kr/kor/main/main.php), 
+
+[Korea University](http://www.korea.ac.kr/do/Index.do).
+
 614B Science Library Building, Anam-dong, Seongbuk-gu, Seoul, 136-713, South Korea 
-Tel. (02) 3290-3585, Fax. (02) 3290-3584, E-mail: ahrimhan at gmail.com | arhan at se.kaist.ac.kr
 
+Tel. (02) 3290-3585, Fax. (02) 3290-3584, E-mail: ahrimhan at gmail.com | arhan at se.kaist.ac.kr
 
 # Research Interests
 
@@ -16,21 +20,25 @@ Tel. (02) 3290-3585, Fax. (02) 3290-3584, E-mail: ahrimhan at gmail.com | arhan 
 
 # Education
 
-## Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea
+## Ph.D., Computer Science, 2007.3 - 2013.8
 
-Ph.D., Computer Science, 2007.3 - 2013.8
-Thesis: Identification and Selection of Refactorings for Improving Maintainability of Object-Oriented Software [Dissertation] [PDF] [Slide]
+Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea
+
+Thesis: Identification and Selection of Refactorings for Improving Maintainability of Object-Oriented Software [Dissertation](http://koasas.kaist.ac.kr/handle/10203/197800) [PDF](./PhDdissertation.pdf) [Slide](./PhDdisseration_presentation.pdf)
+
 Advisor: Prof. Doo-Hwan Bae
 
-## Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea
+## M.S., Computer Science, 2005.3 - 2007.2
 
-M.S., Computer Science, 2005.3 - 2007.2
+Korea Advanced Institute of Science and Technology (KAIST), Daejon, South Korea
+
 Thesis: Behavioral Dependency Measurement in UML 2.0 Sequence Diagrams for Change-proneness Prediction
+
 Advisor: Prof. Doo-Hwan Bae
 
-## Sogang University, Seoul, South Korea
+## B.S., Computer Science, 2000.3 - 2004.2 
 
-B.S., Computer Science, 2000.3 - 2004.2 (Magna Cum Laude)
+Sogang University, Seoul, South Korea **(Magna Cum Laude)**
 
 
 # Publication
@@ -87,21 +95,21 @@ B.S., Computer Science, 2000.3 - 2004.2 (Magna Cum Laude)
 
 ## Reviewers
 
-- 2017, 2 papers, Journal of Systems and Software (JSS) (Invited from Editor)
-- 2016, International Journal of Software Engineering and Knowledge Engineering (IJSEKE)
-- 2015, The 37th International Conference on Software Engineering in Demonstrations Track (ICSE 2015) (as External Reviewer)
-- 2013, Expert Systems With Application (ESWA) (Invited from Editor)
-- 2013, Information and Software Technology (IST) (Invited from Editor)
-- 2013, The 29th IEEE International Conference on Software Maintenance (ICSM 2013)
-- 2013, The 25th International Conference on Software Engineering and Knowledge Engineering (SEKE 2013)
-- 2012, Journal of Systems and Software (JSS) (Invited from Editor)
-- 2012, The 19th Asia Pacific Software Engineering Conference (APSEC)
-- 2012, The 27th IEEE/ACM International Conference on Automated Software Engineering (ASE)
-- 2012, International Conference on Advanced Software Engineering & Its Applications (ASEA 2012)
-- 2010, The fourth IEEE International Conference on Secure Software Integration and Reliability Improvement (SSIRI)
-- 2010, The 25th Symposium on Applied Computing (SAC)
-- 2009, The 16th Asia Pacific Software Engineering Conference (APSEC)
-- 2009, IEEE Software
+* 2017, 2 papers, Journal of Systems and Software (JSS) (Invited from Editor)
+* 2016, International Journal of Software Engineering and Knowledge Engineering (IJSEKE)
+* 2015, The 37th International Conference on Software Engineering in Demonstrations Track (ICSE 2015) (as External Reviewer)
+* 2013, Expert Systems With Application (ESWA) (Invited from Editor)
+* 2013, Information and Software Technology (IST) (Invited from Editor)
+* 2013, The 29th IEEE International Conference on Software Maintenance (ICSM 2013)
+* 2013, The 25th International Conference on Software Engineering and Knowledge Engineering (SEKE 2013)
+* 2012, Journal of Systems and Software (JSS) (Invited from Editor)
+* 2012, The 19th Asia Pacific Software Engineering Conference (APSEC)
+* 2012, The 27th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+* 2012, International Conference on Advanced Software Engineering & Its Applications (ASEA 2012)
+* 2010, The fourth IEEE International Conference on Secure Software Integration and Reliability Improvement (SSIRI)
+* 2010, The 25th Symposium on Applied Computing (SAC)
+* 2009, The 16th Asia Pacific Software Engineering Conference (APSEC)
+* 2009, IEEE Software
 
 ## Societies
 
